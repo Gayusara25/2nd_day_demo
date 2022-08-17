@@ -18,7 +18,7 @@ namespace _2nd_day_demo
 
             double area = pi * radius * radius;
             Console.WriteLine(area);
-            Console.ReadLine();
+            Console.WriteLine();
         }
     }
 }
